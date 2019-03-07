@@ -4,8 +4,8 @@ The [Clas Ohlson product 36-6726](https://www.clasohlson.com/se/Tr%C3%A5dl%C3%B6
 
 The device sends on the usual frequency of 434 MHz. It can be set to one of
 three channels via a switch in the battery compartment. It transmits once every
-60 seconds when on channel 1, once every 70 seconds on channel 2, and once
-every 80 seconds on channel 3.
+57 seconds when on channel 1, once every ~70 seconds on channel 2, and once
+every ~80 seconds on channel 3.
 
 Transmissions use OOK (on-off keying). Each transmission consists of 12
 identical copies of the message, with 3.8 ms OFF between messages.
