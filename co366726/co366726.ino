@@ -15,6 +15,7 @@ void setup()
   Serial.begin(115200);
   pinMode(LED_BUILTIN, OUTPUT);
   pinMode(PIN, INPUT);
+  Serial.println("Cotech 36-6726 monitor");
 }
 
 
